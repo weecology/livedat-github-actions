@@ -1,0 +1,16 @@
+Package: livedatagithubactions
+Title: Testing livedata with GitHub Actions
+Description: Testing livedata with GitHub Actions repository.
+License: MIT + file LICENSE
+Version: 0.1.0
+Authors@R: c(
+    person(given = c("Albert", "Y."), family = "Kim", role = c("cre", "aut"), email = "albert.ys.kim@gmail.com", comment = c(ORCID = "0000-0001-7824-306X")),
+    person(given = "Ethan", family = "White", role = "aut", email = "ethan@weecology.org", comment = c(ORCID = "0000-0001-6728-7745")),
+    person(given = c("Glenda", "M."), family = "Yenni", role = "aut", comment = c(ORCID = "0000-0001-6969-1848")),
+    person(given = "Cosme", family = "Fulanito", role = "aut")
+    )
+Depends: R (>= 4.0.1)
+Imports:
+  testthat
+URL: https://github.com/weecology/livedat-github-actions
+BugReports: https://github.com/weecology/livedat-github-actions/issues
