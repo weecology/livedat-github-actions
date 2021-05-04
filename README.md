@@ -3,7 +3,7 @@
 # livedat with GitHub Actions
 
 This is a **Template Repo** designed to assist in setting up a repository for regularly-updated data 
-(new data are regularly added and need cleaning and curating) **using GitHub Actions instead of Travis CI** for continuous integration. Read [our PLOS Biology paper](https://doi.org/10.1371/journal.pbio.3000125) for more details.
+(new data are regularly added and need cleaning and curating) **using GitHub Actions** for continuous integration. This was forked from the original [Template Repo](https://github.com/weecology/livedat) **using Travis CI** for continuous integration at version 0.11.2. Read [our PLOS Biology paper](https://doi.org/10.1371/journal.pbio.3000125) for more details.
 
 Instructions for creating an updating data workflow can be found at our companion website: 
 ## [UpdatingData.org/githubactions](https://www.updatingdata.org/githubactions/).
